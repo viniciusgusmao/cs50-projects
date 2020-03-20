@@ -1,0 +1,14 @@
+project1/node_modules/**/*
+project1/.expo/*
+project1/npm-debug.*
+project1/*.jks
+project1/*.p8
+project1/*.p12
+project1/*.key
+project1/*.mobileprovision
+project1/*.orig.*
+project1/web-build/
+project1/web-report/
+
+# macOS
+project1/.DS_Store
