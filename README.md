@@ -9,20 +9,22 @@ You can click this image below to know about this excelent course.
 ## Proposed projects
 
 ### Project 0 
-*done!*
 
 The goal of this project is to practice JavaScript and its paradigms by creating
 a TODO app. This app should be able to add TODOs and track the number of total
 TODOs as well as the number of unchecked TODOs.
 
+Project link https://github.com/viniciusgusmao/todo-list-vanilla-js
+
 ### Project 1 
-*done!*
 
 For this project, you'll be implementing a Pomodoro timer. This timer will help
 people trying to use the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 It will vibrate to tell you when to take breaks or resume working, based on some
 determined values. Check out the [staff solution](#staff-solution) for a working
 version.
+
+Project link https://github.com/viniciusgusmao/pomodoro-react-native
 
 ### Project 2 
 *pending*
